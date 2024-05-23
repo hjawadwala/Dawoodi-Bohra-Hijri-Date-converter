@@ -2,7 +2,7 @@
 /**
  * Class HijriDate
  *
- * This class provides an example of how to add author details.
+ * This class provides funciton to convert gregorian date to Hijri date as per Dawoodi Bohra Calendar logic. 
  *
  * @author    Hussain Jawadwala
  * @version   1.0
