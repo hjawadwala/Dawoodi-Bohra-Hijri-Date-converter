@@ -1,4 +1,14 @@
-	<?php
+<?php
+/**
+ * Class HijriDate
+ *
+ * This class provides an example of how to add author details.
+ *
+ * @author    Hussain Jawadwala
+ * @version   1.0
+ * @since     2024-05-18
+ * @link      https://www.zolute.consulting More info here
+ */
 class HijriDate {
     public static function gregorianToHijri($date) {
         $day = (int)$date->format('d');
